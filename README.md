@@ -1,13 +1,9 @@
-🎓 I'm an MCA student building a strong foundation in Data Science.
-📊 This repo includes EDA, ML models, and real-world projects.
-🧠 I’ve explored regression, classification, and clustering techniques.
-🚀 Also learning deployment with Streamlit and Flask.
-💡 A portfolio to showcase my practical learning and skills.
-
-
-# 💫 About Me:
-🎓 I'm an MCA student building a strong foundation in Data Science.<br>📊 This repo includes EDA, ML models, and real-world projects.<br>🧠 I’ve explored regression, classification, and clustering techniques.<br>🚀 Also learning deployment with Streamlit and Flask.<br>💡 A portfolio to showcase my practical learning and skills.<br><br>
-
+🎓 I'm a Data Science & Data Analytics Trainer passionate about empowering learners with industry-relevant skills.
+📊 I specialize in teaching Data Analysis, Data Visualization, Machine Learning, and Statistical Modeling.
+🧠 Experienced in Python, SQL, Power BI, Tableau, Excel, and real-world analytics projects.
+🚀 I guide students and professionals through hands-on learning, project development, and career preparation.
+📈 Focused on transforming data into actionable insights and helping learners build strong analytical thinking.
+💡 Dedicated to creating practical, engaging, and career-oriented training programs in Data Science and Analytics.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sneha-hegde0562) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehabellemadky@gmail.com) 
