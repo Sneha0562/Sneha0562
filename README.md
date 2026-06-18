@@ -5,6 +5,15 @@
 📈 Focused on transforming data into actionable insights and helping learners build strong analytical thinking.
 💡 Dedicated to creating practical, engaging, and career-oriented training programs in Data Science and Analytics.
 
+
+
+Data Science & Data Analytics Trainer passionate about teaching data-driven problem solving.
+📊 Expertise in Python, SQL, Power BI, Tableau, Excel, and Machine Learning.
+🧠 Helping learners master data analysis, visualization, and predictive modeling.
+🚀 Focused on hands-on projects, real-world case studies, and industry best practices.
+📈 Guiding students and professionals toward successful careers in Data Science and Analytics.
+💡 Committed to continuous learning, innovation, and knowledge sharing.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sneha-hegde0562) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehabellemadky@gmail.com) 
 
